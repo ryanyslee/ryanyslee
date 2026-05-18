@@ -16,13 +16,13 @@ I am a mechanical engineer and robotics researcher at Carnegie Mellon University
 
 ### 🚀 Featured Work
 
-* **[Real-Time CNN Gait-Phase Estimator & Spline Controller](link-here)**
+* **[Real-Time CNN Gait-Phase Estimator & Spline Controller](https://github.com/ryanyslee/gpe-spline-controller)**
     Built a TensorRT-optimized bilateral hip exoskeleton controller. It powers dynamic torque assistance via a 1D-CNN gait-phase estimation, achieving R² > 0.80 and RMSE < 4.0% against ground truth kinetic data in real-time treadmill walking.
-* **[Electromechanical Automated Resistor Sorter](link-here)**
+* **[Electromechanical Automated Resistor Sorter](https://github.com/ryanyslee/automated-resistor-sorter)**
     Designed, built, and programmed a computer-vision based automated resistor sorter achieving 95% total system sorting accuracy and 97.6% classification accuracy with zero false positives.
-* **[EMG & Biomechanical Processing Pipeline](link-here)**
+* **[EMG & Biomechanical Processing Pipeline](https://github.com/ryanyslee/emg_exoskeleton_analysis)**
     Engineered an automated data pipeline to synchronize, normalize, and visualize high-frequency electromyography (EMG) and GRF data. Designed advanced contour maps, heat maps, and full-grid sweeps to evaluate the optimal exoskeleton magnitude/delay parameters.
-* **[Real-Time Pose Evaluator via SVD & Procrustes Analysis](link-here)**
+* **[Real-Time Pose Evaluator via SVD & Procrustes Analysis](https://github.com/ryanyslee/yoga_pose_evaluator)**
     Implemented a custom Jacobi Singular Value Decomposition (SVD) algorithm from scratch to solve the Orthogonal Procrustes problem, calculating optimal rotation matrices for 3D pose registration and biomechanical evaluation using OpenCV.
 
 ---
