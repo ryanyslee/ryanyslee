@@ -4,7 +4,7 @@ _**B.S. in Mechanical Engineering | Minor in Robotics @ Carnegie Mellon Universi
 
 _**Research Assistant @ CMU MetaMobility Lab (https://metamobility.cmu.edu/)**_
 
-I am a mechanical engineer and robotics researcher at Carnegie Mellon University (Integrated Master's/Bachelor's) specializing in the intersection of machine learning and hardware integration. Over the past four years, I have architected software pipelines that bring intelligence to physical mechatronic systems, leveraging computer vision and real-time sensor fusion (IMU, EMG, motor encoders). My core focus is translating raw biomechanical and kinematic data into actionable robotic control. Moving forward, I plan to leverage simulation environments and advanced techniques like imitation and reinforcement learning to deploy adaptive, metamolically efficieint, real-time assistance for wearable mobility devices.
+I am a mechanical engineer and robotics researcher at Carnegie Mellon University (Integrated Master's/Bachelor's) specializing in the intersection of machine learning and hardware integration. Over the past four years, I have architected software pipelines that bring intelligence to physical mechatronic systems, leveraging computer vision and real-time sensor fusion (IMU, EMG, motor encoders). My core focus is translating raw biomechanical and kinematic data into actionable robotic control. Moving forward, I plan to leverage simulation environments and advanced techniques like imitation and reinforcement learning to deploy adaptive, metabolically efficient, real-time assistance for wearable mobility devices.
 
 ### 🛠️ Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
